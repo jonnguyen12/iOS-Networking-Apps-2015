@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>BFCD8278-2E06-4AA2-A8DF-75215630B214</string>
+	<key>IDESourceControlProjectName</key>
+	<string>FlickFinder</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>00FB2F922A8D0708172D1428452D68FD1DF20CEB</key>
+		<string>https://github.com/phucnguyen12/Udacity-iOS-Networking-Summer-2015.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Projects/FlickFinder/FlickFinder.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>00FB2F922A8D0708172D1428452D68FD1DF20CEB</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/phucnguyen12/Udacity-iOS-Networking-Summer-2015.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>00FB2F922A8D0708172D1428452D68FD1DF20CEB</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>00FB2F922A8D0708172D1428452D68FD1DF20CEB</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Udacity-iOS-Networking-Summer-2015</string>
+		</dict>
+	</array>
+</dict>
+</plist>
