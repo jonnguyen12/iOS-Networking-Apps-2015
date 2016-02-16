@@ -1,5 +1,5 @@
-# Projects I made in this course
-### Udacity iOS Networking 2015
+# FlickFinder & My Favorite Movie
+### iOS Networking Apps 2015
 
 ## 1. [Flick Finder](Projects/FlickFinder)
 
